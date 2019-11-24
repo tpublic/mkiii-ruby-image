@@ -1,4 +1,4 @@
-FROM docker.bluelight.limited:5000/bluelightltd/microkube-user-image
+FROM docker.bluelight.limited:5000/bluelightltd/mkiii-user-image
 
 
 # ENV RUBY_VER=2.5.3
