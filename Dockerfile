@@ -5,7 +5,6 @@ FROM docker.bluelight.limited:5000/feingkai/mkiii-user-image
 ENV RUBY_VER=2.6.3
 
 
-
 # # # Installing $RUBY_VER
 RUN             . /etc/rvmrc && \
         export PATH="$PATH:/usr/local/rvm/bin/" && \
