@@ -1,4 +1,4 @@
-FROM docker.bluelight.limited:5000/feingkai/mkiii-user-image
+FROM docker.bluelight.limited/feingkai/mkiii-user-image
 
 
 # ENV RUBY_VER=2.5.3
